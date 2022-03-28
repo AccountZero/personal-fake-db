@@ -1,34 +1,49 @@
 {
-  "events": [
+  "users": [
     {
-      "id": 123,
-      "category": "animal welfare",
-      "title": "Cat Adoption Day",
-      "description": "Find your new feline friend at this event.",
-      "location": "Meow Town",
-      "date": "January 28, 2022",
-      "time": "12:00",
-      "organizer": "Kat Laydee"
+      "id": 1,
+      "username": "AccountZero",
+      "age": "20",
+      "description": "Junior developer in an internship. Knows how to drive manual. Cool dude overall",
+      "location": "Zurich",
+      "birthdate": "17-08-2001",
+      "nationality": "polish"
     },
     {
-      "id": 456,
-      "category": "food",
-      "title": "Community Gardening",
-      "description": "Join us as we tend to the community edible plants.",
-      "location": "Flora City",
-      "date": "March 14, 2022",
-      "time": "10:00",
-      "organizer": "Fern Pollin"
+      "id": 2,
+      "username": "HugoDavis",
+      "age": "18",
+      "description": "Student at an informatics school. Learns to drive. Kind off mysterious",
+      "location": "New Orleans",
+      "birthdate": "19-01-2004",
+      "nationality": "american"
     },
     {
-      "id": 789,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
-      "location": "Playa Del Carmen",
-      "date": "July 22, 2022",
-      "time": "11:00",
-      "organizer": "Carey Wales"
-    }
+      "id": 3,
+      "username": "SpaceMaster27",
+      "age": "15",
+      "description": "Small student at a very good school. Eager to learn",
+      "location": "Zurich",
+      "birthdate": "19-03-2007",
+      "nationality": "german"
+    },
+    {
+      "id": 4,
+      "username": "LostAvenger",
+      "age": "19",
+      "description": "Developer in free time. Big avenger fan.",
+      "location": "Warsaw",
+      "birthdate": "17-08-2001",
+      "nationality": "polish"
+    },
+    {
+      "id": 5,
+      "username": "Nonce42",
+      "age": "20",
+      "description": "A music producer mostly doing rap beats. Wants to legalize weed",
+      "location": "Nice",
+      "birthdate": "03-10-2001",
+      "nationality": "french"
+    },
   ]
 }
